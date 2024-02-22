@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Coste</h1>
 <h2 align="center">I welcome you to my github</h2>
 <h3 align="center">I am a Systems Engineering student and I really like the world of programming.</h3>
-<h3 align="center">Here you can explore the projects I have developed. I strive to be concise and make everything easy and intuitive so you can use them efficiently. If you have any questions, comments or suggestions, feel free to let me know through my social networks!</h3>
+<h4 align="center">Here you can explore the projects I have developed. I strive to be concise and make everything easy and intuitive so you can use them efficiently. If you have any questions, comments or suggestions, feel free to let me know through my social networks!</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
