@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Coste</h1>
-<h3 align="center">I welcome you to my github</h3>
-<h4 align="center">I am a Systems Engineering student and I really like the world of programming.</h4>
+<h2 align="center">I welcome you to my github</h2>
+<h3 align="center">I am a Systems Engineering student and I really like the world of programming.</h3>
+<h3 align="center">Aquí puedes explorar los proyectos que he desarrollado. Me esfuerzo por ser conciso y hacer que todo sea fácil e intuitivo para que puedas usarlos eficientemente. Si tienes alguna pregunta, comentario o sugerencia,</h3><h2>¡no dudes en hacérmelo saber a través de mis redes sociales!</h2>
 <h4 align="center">- 📫 How to reach me **luisfcostec@gmail.com**</h4>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfcostec" alt="luisfcostec" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
