@@ -4,8 +4,6 @@
 <h3 align="center">Here you can explore the projects I have developed. I strive to be concise and make everything easy and intuitive so you can use them efficiently. If you have any questions, comments or suggestions, feel free to let me know through my social networks!</h3>
 <h2 align="center">- 📫 How to reach me **luisfcostec@gmail.com**</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/luisfcostec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luisfcostec" height="30" width="40" /></a>
@@ -17,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfcostec&show_icons=true&locale=en&layout=compact" alt="luisfcostec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfcostec&show_icons=true&locale=en" alt="luisfcostec" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisfcostec&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
