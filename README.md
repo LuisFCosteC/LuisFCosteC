@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Coste</h1>
-<h4 align="center">I welcome you to my github</h4>
-<h3 align="center">I am a Systems Engineering student and I really like the world of programming.</h3>
+<h3 align="center">I welcome you to my github</h3>
+<h4 align="center">I am a Systems Engineering student and I really like the world of programming.</h4>
 <h4 align="center">- 📫 How to reach me **luisfcostec@gmail.com**</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfcostec" alt="luisfcostec" /></a> </p>
