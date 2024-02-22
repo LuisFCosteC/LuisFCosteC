@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Coste</h1>
 <h2 align="center">I welcome you to my github</h2>
-<h3 align="center">I am currently studying Systems Engineering. I distinguish myself by my commitment to continuous learning, as I enjoy both acquiring new knowledge and sharing my own with others. I have experience and technical skills that qualify me to work as a Junior Software Developer. My main objective is to expand my knowledge in the Development industry, which will allow me to effectively address the challenges that may arise and propose innovative solutions.</h3>
+<h3 align="center">I am a Systems Engineering student and I really like the world of programming.</h3>
+<h3 align="center">- 📫 How to reach me **luisfcostec@gmail.com**</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfcostec" alt="luisfcostec" /></a> </p>
-
-- 📫 How to reach me **luisfcostec@gmail.com**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfcostec" alt="luisfcostec" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
