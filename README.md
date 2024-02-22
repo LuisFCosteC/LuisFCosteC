@@ -4,7 +4,8 @@
 <h4 align="center">- 📫 How to reach me **luisfcostec@gmail.com**</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfcostec" alt="luisfcostec" /></a> </p>
-https://github-profile-trophy.vercel.app/?username=luisfcostec=discord
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zlcube&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
