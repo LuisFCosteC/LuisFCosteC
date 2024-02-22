@@ -26,4 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfcostec&show_icons=true&locale=en" alt="luisfcostec" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luisfcostec&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisfcostec&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
