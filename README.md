@@ -4,7 +4,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/luisfcostec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luisfcostec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luisfcostec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisfcostec/" height="30" width="40" /></a>
+</p>
 <a href="https://instagram.com/luis_coste_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_coste_c" height="30" width="40" /></a>
 <a href="https://discord.gg/cDfGZ4VH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cDfGZ4VH" height="30" width="40" /></a>
 </p>
