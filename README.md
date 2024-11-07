@@ -1,27 +1,62 @@
-<h1 align="center">Hi 👋, I'm Luis Coste</h1>
-<h2 align="center">I welcome you to my github</h2>
-<h4 align="center">Here you can explore the projects I have developed. I strive to be concise and make everything easy and intuitive to use efficiently. If you have any questions, comments or suggestions, feel free to let me know through my social networks!</h4>
+<h1 align="center">Holaa 👋, Soy Luis Coste</h1>
+<h4 align="center">Soy ingeniero de sistemas y desarrollador backend junior en formación con conocimientos básicos en desarrollo backend. Estoy ansioso por aplicar y ampliar mis habilidades en un entorno profesional, contribuyendo a soluciones operativas eficaces.
+Destaco en trabajo en equipo, organización, atención al detalle y productividad. Estoy comprometido con la innovación, la generación de ideas y la búsqueda de la mejora continua tanto personal como profesionalmente.
+Aunque mi experiencia laboral es limitada, me apasiona aprender y disfruto colaborando con otros para compartir conocimientos y crecer juntos.</h4>
+<h2 align="center">Te doy la bienvenida a mi github</h2>
+<h4 align="center">Aquí puedes explorar los proyectos que he desarrollado. Me esfuerzo por ser conciso y hacer que todo sea fácil e intuitivo de usar de forma eficiente. Si tienes alguna pregunta, comentario o sugerencia, ¡no dudes en hacérmelo saber a través de mis redes sociales!</h4>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conecta conmigo:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/luisfcostec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisfcostec/" height="30" width="40" /></a>
 <a href="https://instagram.com/luis_coste_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_coste_c" height="30" width="40" /></a>
 <a href="https://discord.gg/Pxk4YZqv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pxk4YZqv" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages and Tools</h2>
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  </p>
+<h2 align="center">Lenguas y herramientas</h2>
+
+<div align="center" style="background-color: red; padding: 10px; border-radius: 5px;">
+
+<table>
+<tr align="center">
+  <th>Lenguajes de programación</th>
+  <th>Desarrollo Frontend</th>
+  <th>Desarrollo Backend</th>
+  <th>Base de datos</th>
+  <th>Otros</th>
+</tr>
+<tr align="center">
+  <td>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  </td>
+  <td>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  </td>
+  <td>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  </td>
+  <td>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  </td>
+  <td>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  </td>
+</tr>
+</table>
+
+</div>
 
 <h2></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfcostec&show_icons=true&locale=en&layout=compact" alt="luisfcostec" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfcostec&show_icons=true&locale=en" alt="luisfcostec" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luisfcostec&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfcostec&show_icons=true&locale=en&layout=compact" alt="luisfcostec" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfcostec&show_icons=true&locale=en" alt="luisfcostec" />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=luisfcostec&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
