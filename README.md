@@ -54,7 +54,6 @@ Aunque mi experiencia laboral es limitada, me apasiona aprender y disfruto colab
 <h2></h2>
 
 <div align="center">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfcostec&show_icons=true&locale=en&layout=compact" alt="luisfcostec" />
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfcostec&show_icons=true&locale=en" alt="luisfcostec" />
