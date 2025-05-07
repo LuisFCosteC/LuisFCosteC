@@ -8,7 +8,11 @@
 
 ###
 
-<p align="center">Soy ingeniero de sistemas y desarrollador backend junior en formación con conocimientos básicos en desarrollo backend. Estoy ansioso por aplicar y ampliar mis habilidades en un entorno profesional, contribuyendo a soluciones operativas eficaces. Destaco en trabajo en equipo, organización, atención al detalle y productividad. Estoy comprometido con la innovación, la generación de ideas y la búsqueda de la mejora continua tanto personal como profesionalmente. Aunque mi experiencia laboral es limitada, me apasiona aprender y disfruto colaborando con otros para compartir conocimientos y crecer juntos.</p>
+<p align="center">Soy un ingeniero de sistemas y desarrollador backend junior con una sólida pasión por crear soluciones innovadoras a través del código. Mi enfoque en el aprendizaje continuo me impulsa a buscar proyectos desafiantes donde pueda aplicar mis habilidades analíticas y creativas, así como mi capacidad para trabajar en equipo. Estoy comprometido con el desarrollo de productos escalables centrados en el usuario, aportando valor a través de mi dedicación y atención al detalle.</p>
+
+<p align="center">En mi formación, he adquirido conocimientos en diversos lenguajes de programación como Python, JavaScript y Java, así como en frameworks y librerías como Node.js, Express.js y FastAPI. He trabajado en proyectos personales que incluyen el desarrollo de aplicaciones WebSocket para comunicación en tiempo real y la implementación de APIs RESTful, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad para resolver problemas.</p>
+
+<p align="center">Además de mis habilidades técnicas, tengo experiencia en soporte técnico y atención al cliente, donde he demostrado mi capacidad para gestionar equipos y optimizar procesos. Busco crecer profesionalmente en entornos dinámicos y colaborativos, donde pueda seguir aprendiendo y contribuyendo al éxito de los proyectos en los que participe.</p>
 
 ###
 
