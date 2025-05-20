@@ -76,11 +76,11 @@
       <td>
         <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
         <img width="1" />
+        <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /></a>
+        <img width="1" />
         <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
         <img width="1" />
         <a href="https://visualstudio.microsoft.com/es/vs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  /></a>
-        <img width="1" />
-        <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /></a>
       </td>
     </tr>
   </table>
