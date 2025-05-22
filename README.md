@@ -115,8 +115,6 @@
   <img width="12" />
   <a href="https://discord.gg/Pxk4YZqv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord"/></a>
   <!--
-  <img width="12">
-  <a href="luisfcostec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail"/></a>
   <img width="12" />
   <a href="TU_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio"/></a>
   -->
