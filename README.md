@@ -113,7 +113,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/luisfcostec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin"/></a>
   <img width="12" />
-  <a href="https://discord.gg/Pxk4YZqv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord"/></a>
+  <a href="https://discord.gg/HvVjMnKEWC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord"/></a>
   <!--
   <img width="12" />
   <a href="TU_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio"/></a>
