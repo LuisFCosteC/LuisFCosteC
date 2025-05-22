@@ -4,38 +4,19 @@
 
 ###
 
-<h1 align="center">Holaa 👋, Soy Luis Coste</h1>
+<h1 align="center">👨💻 Soy Luis Coste</h1>
 
 ###
 
-<p align="center">Soy ingeniero de sistemas y desarrollador backend junior. Estoy motivado para aplicar y expandir mis habilidades en un entorno profesional, contribuyendo a soluciones operativas eficaces.</p>
-
-<p align="center">Me destaco en el trabajo en equipo, la organización y la atención al detalle, lo que me permite ser productivo y eficiente. Estoy comprometido con la innovación y la mejora continua, buscando siempre nuevas formas de optimizar procesos y generar ideas creativas.</p>
-
-<p align="center">Aunque mi experiencia laboral es limitada, he trabajado en proyectos académicos y personales, lo que me ha permitido desarrollar mis habilidades y aprender a colaborar efectivamente con otros. Estoy entusiasmado por enfrentar nuevos desafíos y contribuir al éxito de proyectos que marquen la diferencia en el ámbito del desarrollo backend.</p>
+<h3 align="center">Ingeniero de Sistemas | Python & JavaScript | Backend con enfoque Full Stack</h3>
 
 ###
 
-<h2 align="center">Te doy la bienvenida a mi github</h2>
+<p align="center">Desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Combino mis conocimientos en ingeniería de sistemas con habilidades técnicas actualizadas para desarrollar aplicaciones web completas. Mi enfoque va más allá del código, buscando siempre entender las necesidades del negocio para ofrecer soluciones efectivas.</p>
 
 ###
 
-<p align="center">Aquí puedes explorar los proyectos que he desarrollado. Me esfuerzo por ser conciso y hacer que todo sea fácil e intuitivo de usar de forma eficiente. Si tienes alguna pregunta, comentario o sugerencia, ¡no dudes en hacérmelo saber a través de mis redes sociales!</p>
-
-###
-
-<h3 align="center">Conecta conmigo:</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/luisfcostec/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  <a href="https://discord.gg/Pxk4YZqv" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-</div>
-
-###
-
-<h2 align="center">Lenguajes y Herramientas</h2>
+<h2 align="center">🛠 Stack Tecnológico</h2>
 
 ###
 
@@ -86,12 +67,57 @@
   </table>
 </div>
 
+<!--
+###
+
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfcostec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img width="5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfcostec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Proyecto 1</h3>
+        <p>Descripción breve del proyecto y tecnologías utilizadas</p>
+        <a href="#" target="_blank">🔗 Demo</a> | <a href="#" target="_blank">📦 Repositorio</a>
+      </td>
+      <td width="50%">
+        <h3>Proyecto 2</h3>
+        <p>Descripción breve del proyecto y tecnologías utilizadas</p>
+        <a href="#" target="_blank">🔗 Demo</a> | <a href="#" target="_blank">📦 Repositorio</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
+ -->
+
+<h2 align="center">📊 Estadísticas GitHub</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfcostec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="12" />
+  <img src="https://streak-stats.demolab.com?user=luisfcostec&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="center">📫 ¡Contáctame!</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luisfcostec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin"/></a>
+  <img width="12" />
+  <a href="https://discord.gg/Pxk4YZqv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord"/></a>
+  <!--
+  <img width="12">
+  <a href="luisfcostec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail"/></a>
+  <img width="12" />
+  <a href="TU_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio"/></a>
+  -->
+</div>
