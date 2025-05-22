@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Ingeniero de Sistemas | Python & JavaScript | Backend con enfoque Full Stack</h3>
+<h3 align="center">Ingeniero de Sistemas y Desarrollador Full Stack</h3>
 
 ###
 
