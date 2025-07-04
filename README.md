@@ -41,7 +41,9 @@
         <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp logo"  /></a>
       </td>
       <td>
-        <a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40" alt="dot-net logo"  /></a>
+        <a href="https://dotnet.microsoft.com/es-es/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40" alt="dot-net logo"  /></a>
+        <img width="1" />
+        <a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnetcore logo"  /></a>
         <img width="1" />
         <a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="nodejs logo"  /></a>
         <img width="1" />
